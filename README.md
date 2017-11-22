@@ -5,4 +5,4 @@ This includes the OTU table and metadata used in House and Bever *"Disturbance r
 
 Raw sequencing data are available from NCBI's SRA as accession SRP106887. Link to NCBI BioProject for these samples <a href = https://www.ncbi.nlm.nih.gov/bioproject/PRJNA385198>here. </a>
 
-<a href = https://zenodo.org/badge/110628125.svg></a>
+<img src=https://zenodo.org/badge/110628125.svg>
